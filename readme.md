@@ -57,7 +57,7 @@ The project demonstrates user authentication, RESTful API development, frontend-
 
 1. **Clone the repository**
 
-git clone https://github.com/yourusername/your-blog-app.git
+git clone https://github.com/Kishorekumar1730/Blog-application.git
 cd your-blog-app
 
 2. **Backend Setup**
